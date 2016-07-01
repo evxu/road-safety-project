@@ -1,0 +1,1 @@
+This folder includes accident data on M and A(M) roads in the UK from 2009 to 2014. Extracted from original dataset in data folder.

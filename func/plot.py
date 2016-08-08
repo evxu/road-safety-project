@@ -10,7 +10,7 @@ def pieplot_year(column, index, labels, year = '2014', title = '2014', figsize =
 	s = s.reindex(index)
 	s.plot.pie(labels = labels)
 	plt.title(title)
-	plt.show()
+
     
 def pieplot_years(column, index, labels, data = 'data2/Accidents_'):
 	years = ['2009', '2010', '2011', '2012', '2013', '2014']
